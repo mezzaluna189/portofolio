@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Web | Portofolio</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="">About</a></li>
+            <li><a href="">Portofolio</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Contact</a></li>
+        <ul>
+        </nav>
+        <link src="online.png" alt="" />
+        <h1>Biodata Diri</h1>
+        <br />
+        <h2>Saya adalah siswa di SMK Telkom Purwokerto</h2>
+        <br /><br />
+        <p>
+            Saya adalah siswa di SMK Telkom Purwokerto
+        </p>
+</body>
+</html>
